@@ -1,0 +1,9 @@
+#pragma once
+
+#define GIT_VERSION_NUMBER 0 
+#define GIT_SHORT_HASH_A "unknown"
+#define GIT_SHORT_HASH_W L"unknown"
+#define COMPILE_DATE_A "2025-09-01 19:47"
+#define COMPILE_DATE_W L"2025-09-01 19:47"
+#define COMPILE_YEAR_A "2025"
+#define COMPILE_YEAR_W L"2025"
