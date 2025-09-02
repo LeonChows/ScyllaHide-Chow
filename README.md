@@ -6,5 +6,6 @@
 2. x64dbg拦截进程创建 也就是HookCreateProcess 在创建时使dbg 附加上去
 3. 更新优化下了一些代码
 ### 效果图
+<img width="841" height="737" alt="image" src="https://github.com/user-attachments/assets/ab4b0760-3288-452f-aa0a-5a617f52697d" />
 <img width="1280" height="720" alt="Snipaste_2025-09-02_21-55-47" src="https://github.com/user-attachments/assets/4e79c496-563f-4247-b159-9d267520ddcd" />
 <img width="1251" height="585" alt="Snipaste_2025-09-02_22-00-22" src="https://github.com/user-attachments/assets/67390188-a338-434e-8b22-78e9ceb4dc42" />
